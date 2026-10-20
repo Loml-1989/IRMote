@@ -22,7 +22,7 @@ https://cad.onshape.com/documents/72053f8b7099b1ee551be8fa/w/c9c509dfd2f6c74695d
 
 ## Hardware
 - Seeed XIAO ESP32 C5
-- TSOP382xx IR receiver
+- TSOP38238 IR receiver
 - IR LED driven by a BC547
 - 3 push buttons
 - Slide switch
