@@ -10,8 +10,10 @@ A small IR remote built using a XIAO ESP32 C5. Point a remote at it, press a but
 
 ### Case
 ![Final](assets/case.png)
-## Buttons
 
+https://cad.onshape.com/documents/72053f8b7099b1ee551be8fa/w/c9c509dfd2f6c74695d77e8d/e/00c4d274837c6173d7a47207?renderMode=0&uiState=6ad7b619d79b6117422c9eec
+
+## Buttons
 | Button | What it does                     |
 | ------ | -------------------------------- |
 | Left   | Capture an IR signal             |
