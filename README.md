@@ -1,5 +1,5 @@
 # IRMote
-A small IR remote built using a XIAO ESP32 C5. Point a remote at it, press a button, and it remembers the signal. Press another button and it re emit it back out.
+A small IR remote built using a XIAO ESP32 C3. Point a remote at it, press a button, and it remembers the signal. Press another button and it re emit it back out.
 
 ## Gallery
 ## Final PCB front
@@ -27,13 +27,13 @@ https://cad.onshape.com/documents/72053f8b7099b1ee551be8fa/w/c9c509dfd2f6c74695d
 | Right  | Re-emit the stored signal        |
 
 ## Hardware
-- Seeed XIAO ESP32 C5
+- Seeed XIAO ESP32 C3
 - TSOP38238 IR receiver
 - IR LED driven by a BC547
 - 3 push buttons
 - Slide switch
 ## Building it
-1. Install the ESP32 board package for Arduino and pick the XIAO esp32 c5.
+1. Install the ESP32 board package for Arduino and pick the XIAO esp32 c3.
 2. Open `ir_capture_replay.ino`.
 3. Upload.
 ## Firmware
