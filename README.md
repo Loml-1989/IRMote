@@ -2,6 +2,12 @@
 A small IR remote built using a XIAO ESP32 C5. Point a remote at it, press a button, and it remembers the signal. Press another button and it re emit it back out.
 
 ## Gallery
+## Final PCB front
+![FINAL PCB FRONT](assets/final_pcb_front.png)
+
+## Final PCB back
+![FINAL PCB BACK](assets/final_pcb_back.png)
+
 ### PCB
 ![PCB](assets/pcb.png)
 

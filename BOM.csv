@@ -6,8 +6,8 @@ Id,Designator,Footprint,Quantity,Designation,Link,Price (USD)
 5,R2,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,10k,https://robu.in/product/10k-ohm-0-25w-metal-film-resistor-pack-of-100/,$1
 6,SW1,SW_Slide_SPDT_Straight_CK_OS102011MS2Q,1,SW_SPDT,https://robu.in/product/4mm-spdt-1p2t-slide-switch-pack-of-10/,$1
 7,"SW2, SW3, SW4",SW_PUSH_6mm,3,SW_Push,https://robu.in/product/6x6x5-tactile-push-button-switch/,$1
-8,U1,XIAO-ESP32-C5-SMD,1,XIAO-ESP32-C5-SMD,https://hubtronics.in/seeed-studio-xiao-esp32-C5,$11
+8,U1,XIAO-ESP32-C5-SMD,1,XIAO-ESP32-C3-SMD,https://hubtronics.in/seeed-studio-xiao-esp32c3?search=xiao%20esp32%20c3,$8
 9,U2,Vishay_MINICAST-3Pin,1,TSOP382xx,https://robu.in/product/ir-receiver-diode-tsop38238/,$2
 10,PCB,PCB,5,PCB,https://robu.in/product/online-pcb-manufacturing-service/,$11
-11,Battery,Battery,1,Battery,https://robu.in/product/pro-range-1000-mah-1s-30c-60c-lithium-polymer-battery-pack-lipo/,$9
-,TOTAL,,,,,$40
+11,Battery,Battery,1,Battery,https://robu.in/product/pro-range-1000-mah-1s-30c-60c-lithium-polymer-battery-pack-lipo/,$4
+TOTAL,,,,,,$32
