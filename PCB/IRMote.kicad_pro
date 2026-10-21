@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./",
       "specctra_dsn": "",
       "step": "IRMote.step",
       "vrml": ""
@@ -661,7 +661,7 @@
         "uuid": "1035757e-4191-45cc-ba89-b8326f23ae5c"
       }
     ],
-    "used_designators": "U1-2,Q1,J1,R1-2,D1,#PWR1-9,#FLG1-2,SW1-4",
+    "used_designators": "U1-3,Q1,J1,R1-2,D1,#PWR1-12,#FLG1-5,SW1-4",
     "variants": []
   },
   "sheets": [
