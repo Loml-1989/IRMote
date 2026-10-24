@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "./",
       "specctra_dsn": "",
-      "step": "IRMote.step",
+      "step": "IRMote.stl",
       "vrml": ""
     },
     "page_layout_descr_file": ""
